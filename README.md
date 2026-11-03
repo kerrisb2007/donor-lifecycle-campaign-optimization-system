@@ -9,8 +9,7 @@ This repository will contain an end-to-end data engineering and business intelli
 Dataset Source
 ---
 
-This project utilizes clean, transaction-level donor history records from the following open-source dataset:
-[Kaggle Synthetic Donor Dataset for Fundraising Analytics](https://www.kaggle.com/datasets/dbrown86/synthetic-donor-dataset-for-fundraising-analytics)
+This project utilizes clean, transaction-level donor history records that are available via csv files. Please note that all data is synthetic!
 
 
 Core Business Use Cases
